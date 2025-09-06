@@ -129,9 +129,9 @@ class App{
         const millisecondsEl = document.getElementById("milliseconds")
         const startButton = document.getElementById("startBtn")
         const resetButton = document.getElementById("resetBtn")
-        const startSound = new Audio("/sounds/startSound.mp3")
-        const pauseSound = new Audio("/sounds/pauseSound.mp3")
-        const resetSound = new Audio("/sounds/resetSound.mp3")
+        const startSound = new Audio("./sounds/startSound.mp3")
+        const pauseSound = new Audio("./sounds/pauseSound.mp3")
+        const resetSound = new Audio("./sounds/resetSound.mp3")
         
 
         this.Stopwatch = new Stopwatch(minutesSecondsEl, millisecondsEl, startButton, resetButton, startSound, pauseSound, resetSound)
