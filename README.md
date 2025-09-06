@@ -46,4 +46,9 @@ A interface é **responsiva**, adaptando-se a diferentes dispositivos e tamanhos
 
 - **Sons**: Modifique os arquivos de áudio (`startSound.mp3`, `pauseSound.mp3`, `resetSound.mp3`) para personalizar os sons de início, pausa e reset.
 
+## Licença
+
+Este projeto está licenciado sob a **MIT License** - veja o arquivo LICENSE para mais detalhes.
+
+
 
